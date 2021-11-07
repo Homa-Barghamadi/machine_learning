@@ -1,0 +1,4 @@
+x=input('hi please enter your name')
+
+print("hi",x,"welcome to my page")
+
